@@ -8,3 +8,11 @@ export interface TeamworkProject {
   name: string;
   logo: string;
 }
+
+export interface TeamworkPeople {
+  avatarUrl: string;
+  firstName: string;
+  lastName: string;
+  email: string;
+  phone: string;
+}

@@ -15,6 +15,12 @@
       "title": "List projects",
       "description": "List all projects from Teamwork",
       "mode": "view"
+    },
+    {
+      "name": "contacts",
+      "title": "List contacts",
+      "description": "List all contacts from Teamwork",
+      "mode": "view"
     }
   ],
   "preferences": [
